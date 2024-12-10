@@ -1,0 +1,12 @@
+superuser: nazar
+email: nazarpanchenko1997@gmail.com
+password: qwerty12345678
+
+manager: manager1
+password: qwerty12345678
+
+delivery_crew: delivery1
+password: qwerty12345678
+
+client: client1
+password: qwerty12345678
